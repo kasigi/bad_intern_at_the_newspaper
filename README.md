@@ -1,5 +1,5 @@
-# FEWD: Bad Intern Troubleshooting #1
-
+# The Bad Intern at the Newspaper
+## HTML Troubleshooting
 
 ---
 
