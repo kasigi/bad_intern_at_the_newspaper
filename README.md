@@ -1,10 +1,10 @@
-#FEWD: Bad Intern Troubleshooting #1
+# FEWD: Bad Intern Troubleshooting #1
 
 
 ---
 
 
-###Exercise Problem 
+### Exercise Problem 
 
 Your client has had an intern work on a content page and something has gone horribly wrong.  They are now in a panic and have asked you to try to repair the damaged page.  They have identified the followng problems:
 
